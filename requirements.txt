@@ -1,0 +1,4 @@
+# As of OpenCV 5.0, CascadeClassifier (used for face detection here)
+# was moved out of the plain "opencv-python" package into the
+# "contrib" build. Install opencv-contrib-python, not opencv-python.
+opencv-contrib-python>=4.8.0
